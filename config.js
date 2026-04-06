@@ -1,3 +1,3 @@
 console.log("config");
 
-console.log("configs");
+console.log("config fr");
